@@ -1,6 +1,5 @@
-Bank Management System (Code For Interview)
+Bank Management System 
 
 
 
-Please contribute your Project Files/Other Documentation to help others
 
